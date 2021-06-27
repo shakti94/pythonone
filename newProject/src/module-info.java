@@ -1,0 +1,3 @@
+module newProject {
+	requires okio;
+}
